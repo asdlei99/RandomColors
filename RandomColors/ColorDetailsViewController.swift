@@ -1,5 +1,5 @@
 //
-//  ColorDetailViewController.swift
+//  ColorDetailsViewController.swift
 //  RandomColors
 //
 //  Created by Juan Francisco Dorado Torres on 16/04/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ColorDetailViewController: UIViewController {
+class ColorDetailsViewController: UIViewController {
 
   // MARK: - View Lifecycle
 

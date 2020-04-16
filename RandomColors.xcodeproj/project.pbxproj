@@ -13,7 +13,7 @@
 		A99A93422448A9FA001723CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99A93402448A9FA001723CC /* Main.storyboard */; };
 		A99A93442448A9FC001723CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A99A93432448A9FC001723CC /* Assets.xcassets */; };
 		A99A93472448A9FC001723CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99A93452448A9FC001723CC /* LaunchScreen.storyboard */; };
-		A99A934F2448AAB8001723CC /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99A934E2448AAB8001723CC /* ColorDetailViewController.swift */; };
+		A99A934F2448AAB8001723CC /* ColorDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		A99A93432448A9FC001723CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A99A93462448A9FC001723CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A99A93482448A9FC001723CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A99A934E2448AAB8001723CC /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
+		A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				A99A93432448A9FC001723CC /* Assets.xcassets */,
 				A99A93452448A9FC001723CC /* LaunchScreen.storyboard */,
 				A99A93482448A9FC001723CC /* Info.plist */,
-				A99A934E2448AAB8001723CC /* ColorDetailViewController.swift */,
+				A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */,
 			);
 			path = RandomColors;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 				A99A933F2448A9FA001723CC /* ColorsViewController.swift in Sources */,
 				A99A933B2448A9FA001723CC /* AppDelegate.swift in Sources */,
 				A99A933D2448A9FA001723CC /* SceneDelegate.swift in Sources */,
-				A99A934F2448AAB8001723CC /* ColorDetailViewController.swift in Sources */,
+				A99A934F2448AAB8001723CC /* ColorDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

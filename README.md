@@ -18,3 +18,9 @@ Through these tags you can navigate through each section developed on the app.
 | Screenshot 01 |
 | ------------- |
 | ![ss01](.screenshots/ss01.png) |
+
+### uitableview-setup
+
+| Screenshot 02 | Screenshot 03 |
+| ------------- | ------------- |
+| ![ss02](.screenshots/ss02.png) | ![ss03](.screenshots/ss03.png) |
