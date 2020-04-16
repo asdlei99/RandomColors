@@ -14,6 +14,7 @@
 		A99A93442448A9FC001723CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A99A93432448A9FC001723CC /* Assets.xcassets */; };
 		A99A93472448A9FC001723CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99A93452448A9FC001723CC /* LaunchScreen.storyboard */; };
 		A99A934F2448AAB8001723CC /* ColorDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */; };
+		A99A93522448B431001723CC /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99A93512448B431001723CC /* UIColor+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A99A93462448A9FC001723CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A99A93482448A9FC001723CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailsViewController.swift; sourceTree = "<group>"; };
+		A99A93512448B431001723CC /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A99A93452448A9FC001723CC /* LaunchScreen.storyboard */,
 				A99A93482448A9FC001723CC /* Info.plist */,
 				A99A934E2448AAB8001723CC /* ColorDetailsViewController.swift */,
+				A99A93512448B431001723CC /* UIColor+Ext.swift */,
 			);
 			path = RandomColors;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				A99A933F2448A9FA001723CC /* ColorsViewController.swift in Sources */,
 				A99A933B2448A9FA001723CC /* AppDelegate.swift in Sources */,
+				A99A93522448B431001723CC /* UIColor+Ext.swift in Sources */,
 				A99A933D2448A9FA001723CC /* SceneDelegate.swift in Sources */,
 				A99A934F2448AAB8001723CC /* ColorDetailsViewController.swift in Sources */,
 			);

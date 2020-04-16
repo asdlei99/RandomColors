@@ -10,9 +10,14 @@ import UIKit
 
 class ColorDetailsViewController: UIViewController {
 
+  // MARK: - Properties
+
+  var color: UIColor?
+
   // MARK: - View Lifecycle
 
   override func viewDidLoad() {
     super.viewDidLoad()
+    view.backgroundColor = color
   }
 }

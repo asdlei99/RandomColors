@@ -21,6 +21,12 @@ Through these tags you can navigate through each section developed on the app.
 
 ### uitableview-setup
 
-| Screenshot 02 | Screenshot 03 |
+| Screenshot 02a | Screenshot 02b |
 | ------------- | ------------- |
-| ![ss02](.screenshots/ss02.png) | ![ss03](.screenshots/ss03.png) |
+| ![ss02a](.screenshots/ss02a.png) | ![ss02b](.screenshots/ss02b.png) |
+
+### adding-colors-passing-data-and-refactoring
+
+| Screenshot 03a | Screenshot 03b |
+| ------------- | ------------- |
+| ![ss03a](.screenshots/ss03a.png) | ![ss03b](.screenshots/ss03b.png) |
